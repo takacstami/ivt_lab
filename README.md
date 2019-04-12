@@ -1,6 +1,10 @@
 # IVT Spaceship
 
+<<<<<<< HEAD
 cicaThis  a sample application for the [Integration and Verification 
+=======
+kutyaThis  a sample application for the [Integration and Verification 
+>>>>>>> branch-B
 Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
 
 The application is simplified and deliberately contains bugs.
